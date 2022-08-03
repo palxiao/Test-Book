@@ -4,29 +4,41 @@
     "label": "默认目录",
     "children": [
       {
-        "id": 2,
-        "label": "示例笔记",
-        "link": "articles/test.md",
-        "children": []
+        "id": "L2hkP6BMpfltZNvay0cXD",
+        "label": "目录11111",
+        "children": [
+          {
+            "id": "UBKefu6XzzvmDMHSgj5_P",
+            "label": "Electron项目，笔记app",
+            "children": [],
+            "link": "articles/1659520418594.md"
+          }
+        ]
       },
       {
         "id": "LVr9hC68Yv_4ZI3eMVR4v",
         "label": "新建目录/笔记",
         "children": [],
         "link": "articles/1659495975315.md"
+      },
+      {
+        "id": 2,
+        "label": "示例笔记",
+        "link": "articles/test.md",
+        "children": []
       }
     ]
-  },
-  {
-    "id": "EQPoLnH0qYAirX2i2QKA0",
-    "label": "大屏可视化项目",
-    "children": [],
-    "link": "articles/1659496500021.md"
   },
   {
     "id": "2KQeB-IPumSToJ2xPcFXU",
     "label": "Electron + vue 项目",
     "children": [],
     "link": "articles/1659519164031.md"
+  },
+  {
+    "id": "EQPoLnH0qYAirX2i2QKA0",
+    "label": "大屏可视化项目",
+    "children": [],
+    "link": "articles/1659496500021.md"
   }
 ]
