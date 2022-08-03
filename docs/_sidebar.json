@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "label": "默认目录",
+    "children": [
+      {
+        "id": "qn6bAqbTWNvGNOLBWkWlX",
+        "label": "新建目录/笔记",
+        "children": []
+      },
+      {
+        "id": 2,
+        "label": "示例笔记",
+        "link": "articles/test.md",
+        "children": []
+      }
+    ]
+  }
+]
