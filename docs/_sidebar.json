@@ -4,8 +4,8 @@
     "label": "默认目录",
     "children": [
       {
-        "id": "L2hkP6BMpfltZNvay0cXD",
-        "label": "目录11111",
+        "id": "LVr9hC68Yv_4ZI3eMVR4v",
+        "label": "新建目录/笔记",
         "children": [
           {
             "id": "UBKefu6XzzvmDMHSgj5_P",
@@ -13,13 +13,13 @@
             "children": [],
             "link": "articles/1659520418594.md"
           }
-        ]
+        ],
+        "link": "articles/1659495975315.md"
       },
       {
-        "id": "LVr9hC68Yv_4ZI3eMVR4v",
-        "label": "新建目录/笔记",
-        "children": [],
-        "link": "articles/1659495975315.md"
+        "id": "L2hkP6BMpfltZNvay0cXD",
+        "label": "目录11111",
+        "children": []
       },
       {
         "id": 2,
